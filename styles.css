@@ -1,0 +1,16 @@
+
+.banner{
+    background-image: url(/IMG_20240706_122810.png.jpg);
+    padding: 230px 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.title{
+    color: aliceblue;
+}
+.about-me{
+    padding: 100px 0px;
+}
+.skills-sec{
+    padding: 150px 0;
+}
